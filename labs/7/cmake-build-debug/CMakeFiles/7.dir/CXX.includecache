@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/C++-labs/labs/7/Circuit_Buffer.h
+iterator
+-
+newException.h
+D:/labs/C++-labs/labs/7/newException.h
+iostream
+-
+
+D:/labs/C++-labs/labs/7/main.cpp
+iostream
+-
+algorithm
+-
+Circuit_Buffer.h
+D:/labs/C++-labs/labs/7/Circuit_Buffer.h
+
+D:/labs/C++-labs/labs/7/newException.h
+exception
+-
+

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/C++-labs/labs/3/arrayClass.cpp
+arrayClass.h
+D:/labs/C++-labs/labs/3/arrayClass.h
+
+D:/labs/C++-labs/labs/3/arrayClass.h
+
+D:/labs/C++-labs/labs/3/main.cpp
+iostream
+-
+square.h
+D:/labs/C++-labs/labs/3/square.h
+arrayClass.h
+D:/labs/C++-labs/labs/3/arrayClass.h
+
+D:/labs/C++-labs/labs/3/square.cpp
+square.h
+D:/labs/C++-labs/labs/3/square.h
+iostream
+-
+
+D:/labs/C++-labs/labs/3/square.h
+

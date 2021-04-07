@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/labs/C++-labs/labs/8/Cube.h
+cstdlib
+-
+iostream
+-
+fstream
+-
+
+D:/labs/C++-labs/labs/8/main.cpp
+Cube.h
+D:/labs/C++-labs/labs/8/Cube.h
+
